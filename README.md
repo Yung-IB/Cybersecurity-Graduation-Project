@@ -41,6 +41,6 @@ I developed a structured, three-phase system hardening strategy to address the i
 3. **Defense-in-Depth:** Deploy a Web Application Firewall (WAF) to filter malicious traffic and monitor for future injection attempts.
 
 ## 📄 Repository Structure
-* `/Question_1_Vulnerability_Assessment.pdf` - Full Nmap/Nessus scanning report and findings.
-* `/Question_2_Traffic_Analysis.pdf` - Wireshark deep-packet inspection and HTTP/TLS analysis.
-* `/Question_3_Risk_and_Governance.pdf` - Financial risk calculations (ALE) and corporate security policies.
+* [Phase 1: Vulnerability Assessment Report](./QUESTION_1_Vulnerability_Assessment.pdf) - Full Nmap/Nessus scanning report and findings.
+* [Phase 2: Network Traffic Analysis Report](./QUESTION_2_Traffic_Analysis.pdf) - Wireshark deep-packet inspection and HTTP/TLS analysis.
+* [Phase 3: Quantitative Risk Analysis Report](./Question_3_Risk_and_Governance.pdf) - Financial risk calculations (ALE) and corporate security policies.
